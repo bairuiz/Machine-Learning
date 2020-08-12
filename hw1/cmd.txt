@@ -1,0 +1,3 @@
+python decisionstump.py politicians_train.tsv politicians_test.tsv 3 politicians_3_train.labels politicians_3_test.labels politicians_3_metrics.txt
+python decisionstump.py education_train.tsv education_test.tsv 5 education_5_train.labels education_5_test.labels education_5_metrics.txt
+python decisionstump.py small_train.tsv small_test.tsv 0 small_0_train.labels small_0_test.labels small_0_metrics.txt
